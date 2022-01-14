@@ -14,8 +14,8 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: hsl(185, 75%, 39%);
-  background-image: url(../images/bg-pattern-top.svg),
-    url(../images/bg-pattern-bottom.svg);
+  background-image: url(images/bg-pattern-top.svg),
+    url(images/bg-pattern-bottom.svg);
   background-position: top -400px left -400px, bottom -400px right -400px;
   background-repeat: no-repeat, no-repeat;
 }
